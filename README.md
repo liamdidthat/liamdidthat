@@ -6,9 +6,7 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTYyZ3pvd3Q1cXdyNnR3ZWM5bzVmdW1uNDBwb3B0cWdvNjgwcnQ3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2sbLGlnde6EEZaGZ4E/giphy.gif" width="35" /> <strong>ᴀʙᴏᴜᴛ ᴍᴇ  ⤵</strong>
 
 <!-- About Me Text -->
-In September 2025, I'll be starting my BSc in Computer Science at the University of Kent. I’ve spent over 2 years as a freelance digital artist and graphic designer and I have also completed a Level 3 Diploma in Creative Digital Media & Technology, where I earned a distinction grade, creating everything from digital illustrations to 3D models and game assets.
-
-I’m actively preparing for university by diving deep into the fundamentals of programming, with a focus on JavaScript and Python. I’m also building small projects to strengthen my coding skills and problem-solving abilities. My ultimate goal is to combine creative design with programming to work on innovative projects that excite me.
+First-year BSc Computer Science student. Aspiring Software Engineer.
 
 <!-- Line break image -->
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%" />
